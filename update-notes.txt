@@ -1,0 +1,7 @@
+DevOps Practical 3 - Repository Update
+
+Repository cloned from GitHub.
+Existing README file modified.
+New update-notes.txt file created.
+Changes tracked using Git.
+Changes committed and pushed to GitHub.
